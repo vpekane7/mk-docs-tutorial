@@ -5,3 +5,4 @@ theme:
 
 nav:
   - Introduction: index.md
+  - Page2: page2.md
