@@ -5,6 +5,3 @@ theme:
 
 nav:
   - Introduction: index.md
-
-plugins:
-  - techdocs-core
